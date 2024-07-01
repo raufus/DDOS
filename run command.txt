@@ -1,0 +1,8 @@
+apt update
+apt upgrade
+pkg install python
+pkg install python2
+pip install user_agent
+pip install pyfiglet
+unzip DDOS. zip
+python Attack1.py
